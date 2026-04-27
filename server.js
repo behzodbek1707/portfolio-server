@@ -68,7 +68,7 @@ function htmlTemplate({ name, email, message }) {
     .logo { color:#00f0ff; font-size:18px; font-weight:bold; }
     .label { font-size:10px; letter-spacing:3px; text-transform:uppercase; color:#4a6a80; margin-bottom:4px; }
     .value { color:#e2eaf7; font-size:14px; margin-bottom:20px; line-height:1.6; }
-    .msg-box { background:#0c1120; border:1px solid #1a2a3a; border-left:3px solid #00f0ff; padding:16px 20px; margin-top:8px; }
+    .msg-box { background:#0c1120; border:1px solid #1a2a3a; border-left:3px solid #020073; padding:16px 20px; margin-top:8px; }
     .footer { margin-top:32px; padding-top:20px; border-top:1px solid #1a2a3a; font-size:11px; color:#4a6a80; }
     .accent { color:#00f0ff; }
   </style>
